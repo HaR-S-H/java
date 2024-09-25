@@ -1,0 +1,8 @@
+byte->Byte
+short->Short
+int->Int
+long->Long
+double->Double
+float->Float
+boolean->Boolean
+char->Char

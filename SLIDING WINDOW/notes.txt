@@ -1,0 +1,9 @@
+sliding window:-
+technique to solve problem
+
+input->arrays/string
+output->subarrays/substring
+
+two types:-
+fixed size window
+varaible size window
